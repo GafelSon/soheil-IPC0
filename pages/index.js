@@ -1,11 +1,11 @@
 import { Box } from "@chakra-ui/react"
 
 const Home = () => {
-    return (
-        <Box>
-            Hello World!
-        </Box>
-    )
+  return (
+    <Box mt={8}>
+        Hello World!
+    </Box>
+  )
 }
 
 export default Home
